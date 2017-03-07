@@ -1,0 +1,78 @@
+
+.resturant_project{
+  font-family: 'Droid Sans', sans-serif;
+}
+
+li {
+
+  display: inline;
+  list-style-type: none;
+  padding: 5px;
+}
+.landing-body {
+
+  background-image: url("../images/home.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+
+}
+
+.landing-body p {
+
+padding-top: 40;
+
+
+}
+
+.navbar-default {
+    background-color: rgba(248, 248, 248, 0);
+    border-color: rgba(248, 248, 248, 0);
+}
+
+.jumbotron {
+background-image: url("../images/about_1.jpg");
+  height:500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom:1px solid #ff6a00
+}
+.jumbotron .container {
+  position:relative;
+  top:50px;
+}
+
+.menu-item-name {
+
+font-weight: bold;
+font-size: 20px;
+
+}
+
+.menu-body {
+
+  background-color: #ffffff
+}
+
+.col-sm-12 {
+
+  font-style: italic;
+}
+
+.jumbotron_2 {
+background-image: url("../images/menu_1.jpg");
+padding-top: 0xp;
+  height:600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom:1px solid #ffffff
+
+}
+
+
+.jumbotron_3 {
+background-image: url("../images/visit_1.jpg");
+height:500px;
+background-repeat: no-repeat;
+background-size: cover;
+border-bottom:1px solid #ffffff
+}
